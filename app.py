@@ -1739,3 +1739,4 @@ def toggle_sidebar_right(card_clicks, close_clicks, overlay_clicks, raw_data, se
 
 if __name__ == '__main__':
     app.run(debug=True, port=8050)
+
